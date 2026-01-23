@@ -23,8 +23,7 @@ I am a **Data Scientist** currently working at [@Itaú-Unibanco](https://github.
 
 ## 📜 Certifications
 
-[![Data Scientist](https://img.shields.io/badge/Data%20Scientist-Credly-blue?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/719f3d06-1ef4-436b-af39-b343f3e00c98/public_url)
-
+[![Professional - Data Scientist](assets/data_science_badge.png)](https://www.credly.com/badges/719f3d06-1ef4-436b-af39-b343f3e00c98/public_url)
 ---
 
 ## 📫 Contact
