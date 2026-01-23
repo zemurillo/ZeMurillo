@@ -1,13 +1,13 @@
 # Hi there! I'm José Murillo 👋
 
-I am a **Data Scientist** currently working at **Itaú Unibanco**, with a focus on **data analysis**, **machine learning**, and **generative AI**.
+I am a **Data Scientist** currently working at [@Itaú-Unibanco](https://github.com/itau), with a focus on **data analysis**, **machine learning**, and **generative AI**.
 
 ---
 
 ## About me
 - Learning about **Generative AI** and **multi-agent systems**
-- **B.Sc. in Science and Technology** – Federal University of ABC (UFABC)  
-- **B.Sc. in Computer Science (ongoing)** – Federal University of ABC (UFABC)
+- **B.Sc. in Science and Technology** – Federal University of ABC [@UFABC](https://github.com/ufabc-bcc)    
+- **B.Sc. in Computer Science (ongoing)** – Federal University of ABC [@UFABC](https://github.com/ufabc-bcc)
 - Runner, nature lover, and outdoor sports enthusiast 🏊‍♂️🏃⚽
 
 ---
